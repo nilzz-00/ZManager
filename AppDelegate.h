@@ -1,9 +1,9 @@
 //
 //  AppDelegate.h
-//  Filc
+//  ZManager
 //
 //  Created by box on 2021/11/5.
-//  Copyright © 2021 filc. All rights reserved.
+//  Copyright © 2021 nilzz. All rights reserved.
 //
 
 #import <UIKit/UIKit.h>
